@@ -1,0 +1,40 @@
+#castle4-hidden {
+  display: block;
+}
+
+#castle4-showing {
+  display: none;
+}
+
+#castle3-hidden {
+  display: block;
+}
+
+#castle3-showing {
+  display: none;
+}
+
+#castle2-hidden {
+  display: block;
+}
+
+#castle2-showing {
+  display: none;
+}
+
+#castle1-hidden {
+  display: block;
+}
+
+#castle1-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable {
+  text-decoration: underline;
+}
